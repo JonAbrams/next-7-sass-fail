@@ -1,0 +1,21 @@
+{
+  "name": "next-7-sass-fail",
+  "version": "1.0.0",
+  "description": "Simple example of next-sass not working with Next 7",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "author": "Jon Abrams <jon@jonabrams.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-sass": "^0.2.0",
+    "babel-plugin-inline-react-svg": "^0.5.4",
+    "dotenv": "^6.0.0",
+    "next": "^7.0.0",
+    "node-sass": "^4.9.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-jsx-plugin-sass": "^0.2.4"
+  }
+}
